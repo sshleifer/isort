@@ -7,7 +7,7 @@ with open("README.rst") as f:
 
 setup(
     name="isort",
-    version="4.3.21",
+    version="4.3.211",
     description="A Python utility / library to sort Python imports.",
     long_description=readme,
     author="Timothy Crosley",
